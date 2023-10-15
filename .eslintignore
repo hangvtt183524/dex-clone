@@ -1,0 +1,6 @@
+node_modules
+src/config/v2-sdk/*
+src/config/v3-sdk/*
+src/config/sdk-core/*
+src/config/router-sdk/*
+.yarn

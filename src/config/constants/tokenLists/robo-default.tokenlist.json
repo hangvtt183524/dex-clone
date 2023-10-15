@@ -1,0 +1,293 @@
+{
+  "name": "Robo Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "robo",
+  "keywords": ["robo", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "ROBO INU",
+      "symbol": "RBIF",
+      "address": "0x0e6fa9c050c8a707e7f56a2b3695665e4f9eac9b",
+      "chainId": 1,
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/20821/small/O68Gs5SE_400x400.jpg?1654929220"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "ROBO INU",
+      "symbol": "RBIF",
+      "address": "0x2461ba5eb9cc7a130f63ab3015e3cefe7bdc4a52",
+      "chainId": 5,
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/20821/small/O68Gs5SE_400x400.jpg?1654929220"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "tUSDT",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Test USD Coin",
+      "address": "0xD598fa98bf756D775c5d663247377B9fCa77be98",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x29E8222e19dbE8bB396747BcCCF0900CD9F04fE2",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x880Ac92100516ebF4dB041029114351941Cb9b58",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "address": "0x3EaEa141CA962F45d1c90BaB5c8A89e1C6d05003",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+    },
+    {
+      "name": "RIAN NGUYEN",
+      "address": "0x1c0e3a5951a44d4503d5ef9e09e3ccb684b29f4a",
+      "symbol": "RIAN",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "0x0000000000000000000000000000000000000000"
+    },
+
+    {
+      "name": "Wrapped Ether",
+      "address": "0x139D5337deE3f1E3ba77368660715EBe9b1C3B03",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+
+    {
+      "name": "ROBO INU",
+      "symbol": "RBIF",
+      "address": "0x135E7FEE9D57D28E2cf126FD969DCc16Ca5c439c",
+      "decimals": 9,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/20821/small/O68Gs5SE_400x400.jpg?1654929220"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x51FEEED7f999B1a56875253cbfc4542687BdE3b3",
+      "symbol": "tUSDT",
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Test USD Coin",
+      "address": "0xaE5a9F2f7b453Eed7D0Df7C0Ff79b68166629031",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 11155111,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x9A6b878Dcf8929e13E69c63d471E02F954953cC8",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "ROBO INU",
+      "symbol": "RBIF",
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 9,
+      "chainId": 97,
+      "logoURI": "https://assets.coingecko.com/coins/images/20821/small/O68Gs5SE_400x400.jpg?1654929220"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+
+    {
+      "name": "ROBO INU",
+      "symbol": "RBIF",
+      "address": "0x820fccFca5599B9C9A90D6152427CCb78aB169Cd",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20821/small/O68Gs5SE_400x400.jpg?1654929220"
+    },
+
+    {
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+      "name": "Tether USD (PoS) ",
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "USD Coin (PoS)",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": " Dai Stablecoin (PoS)",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+
+    {
+      "name": "Tether USD",
+      "address": "0xa02f6adc7926efebbd59fd43a84f4e0c0c91e832",
+      "symbol": "tUSDT",
+      "decimals": 6,
+      "chainId": 80001,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+
+    {
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+      "name": "Test USD Coin",
+      "address": "0xe11a86849d99f524cac3e7a0ec1241828e332c62",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": " (PoS) Dai Stablecoin",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    }
+  ]
+}
