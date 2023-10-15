@@ -108,7 +108,7 @@
     "typescript": "^5.0.4"
   },
   "resolutions": {
-    "@uniswap/sdk-core": "3.2.2",
+    "@uniswap/sdk-core": "3.2.2"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,json,md}": [
