@@ -2,7 +2,7 @@ import React from 'react';
 import { SvgProps } from 'components/Svg/types';
 import Svg from 'components/Svg/Svg';
 
-const GasRed: React.FC<React.PropsWithChildren<SvgProps>> = ({ ...props }) => {
+const GasRed = ({ ...props }) => {
     return (
         <Svg width="30" height="36" viewBox="0 0 30 36" fill="none" {...props}>
             <g clipPath="url(#clip0_3479_18933)">

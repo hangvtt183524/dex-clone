@@ -2,7 +2,7 @@ import Svg from 'components/Svg/Svg';
 import { SvgProps } from 'components/Svg/types';
 import React from 'react';
 
-const LinkExternal: React.FC<React.PropsWithChildren<SvgProps>> = (props) => {
+const LinkExternal = (props) => {
   return (
     <Svg viewBox="0 0 16 16" fill="transparent" {...props}>
       <path

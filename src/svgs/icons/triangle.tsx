@@ -4,7 +4,7 @@ import { SvgProps } from 'components/Svg/types';
 import React from 'react';
 import RoboTheme from 'styles';
 
-const TriangleIcon: React.FC<React.PropsWithChildren<SvgProps>> = (props) => {
+const TriangleIcon= (props) => {
   return (
     <Svg viewBox="0 0 9 6" {...props}>
       <path

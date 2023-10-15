@@ -3,7 +3,7 @@ import Svg from 'components/Svg/Svg';
 import { SvgProps } from 'components/Svg/types';
 import React from 'react';
 
-const WarningOutLine: React.FC<React.PropsWithChildren<SvgProps>> = (props) => {
+const WarningOutLine = (props) => {
   return (
     <Svg width="40px" height="40px" fill="none" viewBox="0 0 24 24" {...props}>
       <path d="M12 9V14" stroke="#ED8936" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

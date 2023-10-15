@@ -3,7 +3,7 @@ import Svg from 'components/Svg/Svg';
 import { SvgProps } from 'components/Svg/types';
 import React from 'react';
 
-const Docs: React.FC<React.PropsWithChildren<SvgProps>> = (props) => {
+const Docs = (props) => {
   return (
     <Svg viewBox="0 0 20 20" fill="transparent" {...props}>
       <path

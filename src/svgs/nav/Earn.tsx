@@ -4,7 +4,7 @@ import Svg from 'components/Svg/Svg';
 import { SvgProps } from 'components/Svg/types';
 import React from 'react';
 
-const Earn: React.FC<React.PropsWithChildren<SvgProps>> = (props) => {
+const Earn = (props) => {
   return (
     <Svg fill="transparent" viewBox="0 0 24 24" {...props}>
       <path
