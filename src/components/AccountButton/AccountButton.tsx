@@ -68,7 +68,7 @@ const AccountButton = () => {
           style={{ display: 'flex', alignItems: 'center' }}
           width="100%"
         >
-          <RowFixed>{wallet ? <Icon width={24} /> : <HelpIcon fill={RoboTheme.colors.textSubtle} />}</RowFixed>
+            <RowFixed>{wallet ? <Icon width={24} /> : <Text>No wallet</Text>}</RowFixed>
           <Text fontWeight={600}>{truncateHash(address || '', START_ADDRESS, END_ADDRESS)}</Text>
           <RowFixed ml="8px">
             <DownIcon />
