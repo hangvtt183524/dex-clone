@@ -109,7 +109,6 @@
   },
   "resolutions": {
     "@uniswap/sdk-core": "3.2.2",
-    "@types/react": "^16.9.49"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,json,md}": [
