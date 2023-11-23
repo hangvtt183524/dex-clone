@@ -54,7 +54,7 @@ export const wallets: WalletConfig<ConnectorNames>[] = [
     },
     connectorId: ConnectorNames.RoboInu,
     priority: 1,
-    href: 'https://dashboard.roboglobal.info/',
+    href: `https://metamask.app.link/dapp/${SERVER_URL}/`,
     downloadLink: {
       desktop: 'https://chrome.google.com/webstore/detail/robo-wallet-testnet/namdenejojopbnekajecohieicljpcgb/',
       mobile: 'https://play.google.com/store/apps/details?id=com.roboglobal.wallet'

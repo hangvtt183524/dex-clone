@@ -46,7 +46,7 @@ export const fetchFarmsPublicDataAsync = createAsyncThunk<
         };
 
       const farmPoolsInfo = await getFarmPoolsInfo(SupportedNetwork[chainId]);
-      const parseFarmPool = generateFarmPoolConfig(farmPoolsInfo);
+        const parseFarmPool = generateFarmPoolConfig(farmPoolsInfo).filter((pool) => pool.manager.toLowerCase() !== '0x8a459Eff1D03589D479E0A459b1256c1eAa7865A'.toLowerCase());
       console.log('====================farm pool info: ', farmPoolsInfo, parseFarmPool)
 
       const farmsData = await fetchFarms({ farms: parseFarmPool, chainId });
